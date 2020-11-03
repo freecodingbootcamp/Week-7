@@ -1,6 +1,6 @@
 # Week-7 -- Day-1
 
-## Node.js
+## Intro to Node.js
 
 What is Node.js? Let's see how the web answers this question.
 
@@ -30,9 +30,9 @@ Node allows you to run JavaScript on the server / backend. So no more one langua
 
 
 
-## Starting a Simple Node.js Server
+### Starting a Simple Node.js Server
 
-### Install Node
+#### Install Node
 Make sure you have Node installed.
 
 Go to: https://Nodejs.org/en/download/
@@ -47,7 +47,7 @@ Then continue with installing.
 
 After you are done you should have Node and npm (helps installing Node add-ons) installed on your computer.
 
-### App.js File
+#### App.js File
 
 Now create and open an app.js file and paste the following code inside of it.
 
@@ -68,7 +68,7 @@ Now create and open an app.js file and paste the following code inside of it.
     app.listen(3000, '127.0.0.1');
     console.log('Node server running on port 3000');
 
-### Install http Package
+#### Install http Package
 
 Install `http`
 
@@ -76,7 +76,7 @@ Within the command line and in the directory where you have this app.js file run
 
     npm install http
 
-### Run app.js
+#### Run app.js
 
 Now run the app.js by typing in the following command and still in the directory where you have your app.js file
 
@@ -88,11 +88,11 @@ If everything went well you should see the message:
 
 In your terminal. You should now be able to see the Hello World message in your browser if you go to localhost:3000
 
-## Express.js Server
+### Express.js Server
 
 Let's do the same we just did above but using Express.js
 
-### What is Express?  
+#### What is Express?  
 
 Express to Node.js is a **little bit** like what jQuery is to JavaScript or Bootstrap is to CSS.
 I am emphasizing a little bit in case a senior developer somewhere is having a stroke sensing somebody just wrote a blasphemous coding statement. What I am trying to say is that Express makes starting and defining a server easier and faster.
@@ -106,7 +106,7 @@ Here is how Express defines itself:
 > With a myriad of HTTP utility methods and middleware at your disposal,
 > creating a robust API is quick and easy.
 
-### App.js
+#### App.js
 
 Replace the original app.js with the following code.
 
@@ -123,13 +123,13 @@ Replace the original app.js with the following code.
     })
 
 
-### Install Express
+#### Install Express
 
 Let's install Express. Run the following command in the terminal:
 
     npm install Express
 
-### Run app.js
+#### Run app.js
 Now run the app.js file in the terminal with the following command. But before you do make sure you stopped the old server. Just do a ctrl-c and that should exit the server service.
 
     Node app.js
