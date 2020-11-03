@@ -37,13 +37,13 @@ Make sure you have Node installed.
 
 Go to: https://Nodejs.org/en/download/
 
-![Node.js installation page](https://raw.githubusercontent.com/Team-FCB/Assets/master/install_Node_1.png)
+![Node.js installation page](https://raw.githubusercontent.com/Team-FCB/Assets/master/install_node_1.png)
 
 Select the right file. In my case, I chose macOS installer (.pkg) 64-bit.
 
 Then continue with installing.
 
-![installation screen](https://raw.githubusercontent.com/Team-FCB/Assets/master/install_Node_2.png)
+![installation screen](https://raw.githubusercontent.com/Team-FCB/Assets/master/install_node_2.png)
 
 After you are done you should have Node and npm (helps installing Node add-ons) installed on your computer.
 
