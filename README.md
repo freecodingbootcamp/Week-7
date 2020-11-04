@@ -6,6 +6,8 @@
 
 ### [Day 2](https://github.com/freecodingbootcamp/Week-7/tree/master/Day-2):
 
+- CRUD, MVC, Express Generator
+
 ### [Day 3](https://github.com/freecodingbootcamp/Week-7/tree/master/Day-3):
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-7/tree/master/Day-4):
