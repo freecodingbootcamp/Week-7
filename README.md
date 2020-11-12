@@ -14,4 +14,6 @@
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-7/tree/master/Day-4):
 
+- Express with View Engine Continued, Mini Message Board
+
 ### [Day 5](https://github.com/freecodingbootcamp/Week-7/tree/master/Day-5):

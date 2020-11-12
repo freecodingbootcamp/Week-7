@@ -4,7 +4,7 @@
 
 **JSON** --> **J**ava**S**cript **O**bject **N**otation.
 
-The internet is  an incredibly  large amount of interactions. Requests  are made  and then delivered.
+The internet is an incredibly  large amount of interactions. Requests  are made  and then delivered.
 
 This goes back and forth. With that said in one of those types of interactions, we  request  and respond with JSON objects.
 
